@@ -1,3 +1,6 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nastra&show_icons=true">
+
+
 ### Hi there 👋
 
 <!--
