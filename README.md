@@ -2,9 +2,10 @@
 
 
 ### Hi there 👋
-- 🔭 I’m currently working on the backend pieces of [DataStax Astra](https://www.datastax.com/products/datastax-astra), writing Java (for the DB itself) and Go (for the K8s Operator) code
-- 🌱 I’m currently learning all the things about Go
-- 💬 Ask me about Java, Kotlin, Go, Engineering Pratices
+- I'm currently working on a few OSS projects, such as [Nessie](https://github.com/projectnessie/nessie) and [Apache Iceberg](https://github.com/apache/iceberg)
+- 🔭 Previously I was working on the backend pieces of [DataStax Astra](https://www.datastax.com/products/datastax-astra), writing Java (for the DB itself) and Go (for the K8s Operator) code
+- 🌱 I’m currently learning all the things about Go & Clojure
+- 💬 Ask me about Java, Kotlin, Go, Engineering Practices
 
 <!--
 **nastra/nastra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
