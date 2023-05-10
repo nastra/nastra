@@ -3,8 +3,8 @@
 
 
 ### Hi there 👋
-- I'm currently working on a few OSS projects, such as [Nessie](https://github.com/projectnessie/nessie) and [Apache Iceberg](https://github.com/apache/iceberg)
-- 🔭 Previously I was working on the backend pieces of [DataStax Astra](https://www.datastax.com/products/datastax-astra), writing Java (for the DB itself) and Go (for the K8s Operator) code
+- I'm currently mainly working on [Apache Iceberg](https://github.com/apache/iceberg)
+- 🔭 Previously I was working on [Nessie](https://github.com/projectnessie/nessie) but also on the backend pieces of [DataStax Astra](https://www.datastax.com/products/datastax-astra), writing Java (for the DB itself) and Go (for the K8s Operator) code
 - 🌱 I’m currently learning all the things about Go & Clojure
 - 💬 Ask me about Java, Kotlin, Go, Engineering Practices
 
